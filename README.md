@@ -1,5 +1,7 @@
 # Gialog
 
+https://thanaism.github.io/gialog/
+
 Blog template to use GitHub Issues as article editor.
 
 ## Usage
